@@ -1,4 +1,4 @@
-# Exercice 3 : analyse de risque
+# Exercice 3 : analyse de risques
 
 ---
 
