@@ -1,4 +1,4 @@
-# TP 1: répondre à l'appel d'offres
+# TP 1 : répondre à l'appel d'offres
 
 ---
 
@@ -15,6 +15,6 @@
 
 ## Offre
 
-*Je veux créer un logiciel personnel qui me permettra de gérer mes stocks de pièces, mes rendez-vous, de créer des fiches clientes et de suivre les vélos de mes clients tous en stockant les infos importantes de chaque client. *
+*"Je veux créer un logiciel personnel qui me permettra de gérer mes stocks de pièces, mes rendez-vous, de créer des fiches clientes et de suivre les vélos de mes clients tous en stockant les infos importantes de chaque client."*
 
 [Lien de l'offre](https://www.codeur.com/projects/392247-logiciel-qui-permettra-de-suivre-la-vente-et-reparation-des-velo)
