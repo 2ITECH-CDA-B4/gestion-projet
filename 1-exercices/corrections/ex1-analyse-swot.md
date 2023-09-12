@@ -1,4 +1,4 @@
-# Correction exercice 1 : analyse besoins du client
+# Correction exercice 1 : analyses des besoins du client et SWOT
 
 ---
 
@@ -76,6 +76,33 @@ Et d'autres questions ouvertes pour bien cibler les besoins.
 ## Contraintes
 
 La contrainte principale ici est de potentiellement devoir utiliser le site web actuel donc cela nécessite d'avoir les ressources compétentes sur le CMS Wordpress en interne. Autrement dit une dépendance envers Wordpress et ses technologies.
+
+---
+
+
+## SWOT (Strenghts, Weakness, Opportunities, Threats)
+
+### Forces internes
+
+- Équipe polyvalente (management, commercial, développeurs qui maitrisent diverses technologies, pédagogues)
+- Peu d'exigence du client en termes de délai (hypothèse)
+- Motivation de l'équipe
+- Disponibilités des applications déjà existantes (d'après les mentions légales, le client administre et gère lui-même l'hébergement donc on pourra facilement récupérer les applications si nécessaire). Le site est fait avec Wordpress, on peut le voir grâce à [WhatCMS](https://whatcms.org/)
+
+### Faiblesses internes
+
+- Equipe peu expérimenté
+- Client peu disponible en tenant compte de la répartition de ses tâches quotidiennes et de sa géolocalisation (région parisienne, concurrence importante) (hypothèse)
+- Implication du client (hypothèse en se basant sur le nombre des interactions sur le site de diffusion de l'annonce et la date de publication)
+
+### Opportunités externes
+
+- En dehors de ce projet, on peut nouer un partenariat avec le client pour effectuer des shootings photos pour l'entreprise et des autres clients.
+- En dehors des besoins exprimés par le client, faire des propositions commerciales (Refonte, SEO, Hébergement, etc.)
+
+### Menaces externes
+
+- Concurrence avec les autres agences (17 offres reçues par le client), il faudra veiller à ne pas être trop chère et ne pas trop s'aligner non plus au risque de réduire sa marge commerciale.
 
 ---
 
