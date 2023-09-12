@@ -1,4 +1,4 @@
-# Exercice 2 : psréparation d'une réunion avec le client
+# Exercice 2 : préparation d'une réunion avec le client
 
 ---
 
