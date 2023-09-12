@@ -64,7 +64,7 @@ L'analyse des risques à réalisé ici doit se concentrer sur les risques futurs
 #### Causes
 
 - Besoins mal définis par le client, risque d'avoir des fonctionnalités qui ne répondent pas aux besoins du client
-- Première vue, volume faible des fonctionnalités mais le volume de fonctionnalités risque d'être important, attention à la mobilisation des ressources humaines.
+- Initialement, le volume des fonctionnalités est faible car les besoins sont flous, plus tard lorsque les besoins seront précisés, le volume de fonctionnalités risque d'accroître fortement => faire attention à la mobilisation des ressources humaines.
 
 #### Conséquences
 
