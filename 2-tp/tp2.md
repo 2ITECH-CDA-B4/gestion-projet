@@ -22,7 +22,7 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 
 3. Lors du troisième *Sprint*, l'un de vos risques les plus critiques identifiés en amont, survient. **Que faites-vous ?** 
 
-4. Lors du dernier *Sprint* entamé, le client vous contacte pour ajouter une nouvelle fonctionnalité de manière urgente sur le site web, il s'agit de permettre aux clients de réserver un contrôle technique gratuit 1 fois par an.
+4. Lors du dernier *Sprint* entamé, le client vous contacte pour ajouter une nouvelle fonctionnalité de manière urgente sur le site web, il s'agit de permettre aux clients de réserver un contrôle technique gratuit 1 fois par an. **Que faites-vous ?**
 
 5. Le client est à court de budget et souhaite arrêter le projet. **Que faites-vous ?**
 
