@@ -26,6 +26,8 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 
 5. Le client est à court de budget et souhaite arrêter le projet. **Que faites-vous ?**
 
+6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice.**Que faites-vous ?**.
+
 ---
 
 ### Scénarios survenus lors du déroulement de votre projet avec une méthode prédictive
@@ -39,6 +41,8 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 4. Vous êtes pile-poil dans les temps pour effectuer la recette comme prévu dans 2 jours, le client vous contacte pour ajouter une nouvelle fonctionnalité de manière urgente sur le site web, il s'agit de permettre aux clients de réserver un contrôle technique gratuit 1 fois par an. **Que faites-vous ?**
 
 5. Le client ne souhaite plus régler car le produit final ne correspond plus à ces besoins qui ont évolué entre temps. **Que faites-vous ?**
+
+6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice.**Que faites-vous ?**.
 
 ---
 
