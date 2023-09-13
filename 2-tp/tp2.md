@@ -26,7 +26,7 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 
 5. Le client est à court de budget et souhaite arrêter le projet. **Que faites-vous ?**
 
-6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice.**Que faites-vous ?**.
+6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice, si vous refusez de vous executer.**Que faites-vous ?**.
 
 ---
 
@@ -42,7 +42,7 @@ PS : tenir compte des éléments suivants si vous avez opté pour une méthode a
 
 5. Le client ne souhaite plus régler car le produit final ne correspond plus à ces besoins qui ont évolué entre temps. **Que faites-vous ?**
 
-6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice.**Que faites-vous ?**.
+6. Le client exige de suivre les déplacements des vélos sans demander au préalable le consentement de ses clients. Il vous menace d'arrêter le développement et de vous attaquer en justice, si vous refusez de vous executer.**Que faites-vous ?**.
 
 ---
 
