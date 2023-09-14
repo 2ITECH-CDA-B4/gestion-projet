@@ -7,7 +7,6 @@
 A partir des besoins exprimés par le client :
 1. Répondez à la question, **comment pouvez-vous répondre aux besoins du client ?**
 - Vous avez 20 min pour exprimer vos idées sans filtre et censure, soyez le plus libre et créatif.
-Vous pouvez vous appuyer sur l'extension 
 2. La suite sera communiqué à l'oral.
 
 ---
