@@ -27,7 +27,7 @@ PS : gardez en tête que l'objectif est de maximiser la valeur, autrement dit vo
 
 2. Votez ou revotez à l'aide du Planning Poker pour estimer la complexité globale des *US* sélectionnés.
 
-3. Assignez un développeur ou un binôme pour travailler en *pair-programming* sur Jira.
+3. Assignez un responsable par ticket (developpers qui sera amené à implémenter une solution pour répondre au besoin) sur Jira.
 
 4. Déterminez un plan d'action pour les premiers jours du *Sprint*.
 
@@ -39,7 +39,7 @@ PS : gardez en tête que l'objectif est de maximiser la valeur, autrement dit vo
 - Ajoute des nouveaux *items*
 - Affinage
 - Nettoyage (suppression, réorganisation)
-- Commence à réfléchir sur le prochain *Sprint*
+- Commence à réfléchir sur le prochain *Sprint* (Pas nécessaire d'en prévoir 2 à l'avance, un seul devrait suffit)
 - Priorise les éléments qui constituent le *Product Backlog*
 - Contacter et s'entretenir avec le client (formateur) pour récolter ou identifier des évolutions dans les priorités et les besoins exprimés.
 - Contacter et s'entretenir avec les utilisateurs finaux (formateur) pour connaître leurs habitudes, récolter des informations, réaliser des tests utilisateurs, etc.
